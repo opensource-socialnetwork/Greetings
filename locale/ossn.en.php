@@ -9,11 +9,11 @@
  * @link      https://www.opensource-socialnetwork.org/
  */
 
-$en = array(
-	'greetings:welcomeback' => 'Welcome Back, %s!',
-	'greetings:morning' => 'Good Morning!',
-	'greetings:afternoon' => 'Good Afternoon!',
-	'greetings:evening' => 'Good Evening!',
-	'greetings:night' => 'Good Night!',
+$ar = array(
+	'greetings:welcomeback' => 'مرحبا بك, %s!',
+	'greetings:morning' => 'صباح الخير!',
+	'greetings:afternoon' => 'مساء الخير!',
+	'greetings:evening' => 'مساء الخير!',
+	'greetings:night' => 'مساء الخير!',
 );
-ossn_register_languages('en', $en); 
+ossn_register_languages('ar', $ar); 
