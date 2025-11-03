@@ -2,7 +2,6 @@
 	padding: 10px;
 	color: #fff;
 	border-radius: 5px;
-	border: 1px solid #ccc;
 	margin-bottom: 5px;
 	background-size: cover !important;
 }
